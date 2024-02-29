@@ -19,7 +19,9 @@ The dataset used in this project consists of images of playing cards categorized
 The image classification model is built using PyTorch and leverages pre-trained architectures from the timm library. The final layer of the model is modified to accommodate the specific task of classifying playing cards. 
 
 ## Model Evaluation
-The performance of the model is evaluated based on training and validation loss metrics. Here are the plots depicting the training and validation loss over epochs:
+The performance of the model is evaluated based on training and validation loss metrics. Here are the plots depicting the training and validation loss over epochs:<br>
+![image](https://github.com/DeZhaysun/PlayingCardRecognition/assets/61562373/d8deab5a-2caa-43f5-833a-0b87c39c39c3)
+
 
 
 ## Conclusion
