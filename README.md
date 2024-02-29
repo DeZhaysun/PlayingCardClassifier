@@ -1,4 +1,4 @@
-# Cards 
+# Playing Card Classifier with Pytorch ML
 ## Overview
 This project focuses on building an image classifier using PyTorch to detect playing cards. The model is trained to classify images of playing cards into different categories based on their suits and ranks.
 
